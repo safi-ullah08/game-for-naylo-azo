@@ -21,6 +21,11 @@ Everything here was made thinking of you two my boys.
 
 ---
 
+## Brothers name
+- Neal
+- Azu
+
+
 ## Core Vision
 
 Deno is a cooperative adventure about two brothers in a prehistoric world.
